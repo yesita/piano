@@ -7,16 +7,16 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Piano</name>
+    <name>Vibracel</name>
 
     <description>
-       hace sonidos de piano
+        Ejemplo para utilizar Plugins en moviles
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
 	
-    <author href="https://build.phonegap.com" email="Yesenia Hernandez">
-        Yesenia Hernandez
+    <author href="https://build.phonegap.com" email="nyeto@hotmail.com">
+        David Nieto
     </author>
 	
 
